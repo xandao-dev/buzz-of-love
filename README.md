@@ -37,6 +37,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+https://user-images.githubusercontent.com/22106326/188331599-086e476a-50e1-4750-aa99-27bc51c83f3f.mp4
+
 <div align="center">
   <a href="https://github.com/xandao6/buzz-of-love">
     <img src="./assets/bol.jpeg" alt="final soundbox">
