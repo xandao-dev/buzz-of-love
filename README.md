@@ -6,11 +6,11 @@
     A beep soundbox to play nostalgic sounds! With volume control and controls over bluetooth!
     <br />
     <br />
-    <a href="https://github.com/xandao6/buzz-of-love"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/xandao-dev/buzz-of-love"><strong>Explore the docs »</strong></a>
     <br />
-    <a href="https://github.com/xandao6/buzz-of-love/issue">Report Bug</a>
+    <a href="https://github.com/xandao-dev/buzz-of-love/issue">Report Bug</a>
     ·
-    <a href="https://github.com/xandao6/buzz-of-love/issues">Request Feature</a>
+    <a href="https://github.com/xandao-dev/buzz-of-love/issues">Request Feature</a>
   </p>
 </p>
 
@@ -40,7 +40,7 @@
 https://user-images.githubusercontent.com/22106326/188331599-086e476a-50e1-4750-aa99-27bc51c83f3f.mp4
 
 <div align="center">
-  <a href="https://github.com/xandao6/buzz-of-love">
+  <a href="https://github.com/xandao-dev/buzz-of-love">
     <img src="./assets/bol.jpeg" alt="final soundbox">
     <img src="./assets/bol.png" alt="soundbox prototype">
     <img src="./assets/songs.png" alt="songs">
@@ -63,7 +63,7 @@ https://user-images.githubusercontent.com/22106326/188331599-086e476a-50e1-4750-
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/xandao6/buzz-of-love/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/xandao-dev/buzz-of-love/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -86,6 +86,6 @@ Free software =)
 <!-- CONTACT -->
 ## Contact
 
-Alexandre Calil - [@xandao6](https://www.linkedin.com/in/xandao6/) - alexandrecalilmf@gmail.com
+Alexandre Calil - [Linkedin](https://www.linkedin.com/in/xandao-dev/) - [alexandre@xandao.dev](mailto:alexandre@xandao.dev)
 
-Project Link: [https://github.com/xandao6/buzz-of-love](https://github.com/xandao6/buzz-of-love)
+Project Link: [https://github.com/xandao-dev/buzz-of-love](https://github.com/xandao-dev/buzz-of-love)
